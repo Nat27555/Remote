@@ -17,10 +17,7 @@ while (count<0)
 {
   count++
 }
-<<<<<<< HEAD
 Print
 
-=======
 
 ````````````
->>>>>>> bd7baf3aa41ad133d6cc868abec6732f76888d5f
